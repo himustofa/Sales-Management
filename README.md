@@ -11,7 +11,7 @@ The definition of sales management software refers to systems that enable sales 
 ![slide8](https://user-images.githubusercontent.com/26080779/46569615-a28a5280-c979-11e8-8a6d-e93c75c9fc39.jpg)
 ![slide9](https://user-images.githubusercontent.com/26080779/46569616-a28a5280-c979-11e8-9014-ad3bb1ed0586.jpg)
 ![slide10](https://user-images.githubusercontent.com/26080779/46569617-a28a5280-c979-11e8-891d-9af084e198e2.jpg)
-![slide11](https://user-images.githubusercontent.com/26080779/46569618-a322e900-c979-11e8-8773-d0e2f2b29612.jpg)
+![slide11](https://user-images.githubusercontent.com/26080779/46569745-301a7200-c97b-11e8-9b63-e83fb8362878.jpg)
 ![slide12](https://user-images.githubusercontent.com/26080779/46569619-a322e900-c979-11e8-9b93-1cb6f6421162.jpg)
 ![slide13](https://user-images.githubusercontent.com/26080779/46569620-a322e900-c979-11e8-8592-aacddf4efe80.jpg)
 ![slide14](https://user-images.githubusercontent.com/26080779/46569621-a3bb7f80-c979-11e8-9aa4-2a4eba32c34c.jpg)
