@@ -1,5 +1,7 @@
 # Sales-Management
 
+The definition of sales management software refers to systems that enable sales managers to gain increased insight into key performance indicators across their organization. Sales management software might enable managers to see, in real time, which reps are on pace to meet goals.
+
 ![slide2](https://user-images.githubusercontent.com/26080779/46569609-a0c08f00-c979-11e8-9bc1-7c2cd5053093.jpg)
 ![slide3](https://user-images.githubusercontent.com/26080779/46569610-a1592580-c979-11e8-9678-8fe053db7911.jpg)
 ![slide4](https://user-images.githubusercontent.com/26080779/46569611-a1592580-c979-11e8-9a86-87cc86b16ba4.jpg)
